@@ -1,2 +1,4 @@
 # hello-world
-创建一个新的仓库
+hi Humans!
+
+好好学习，天天向上
